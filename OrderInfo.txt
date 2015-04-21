@@ -1,0 +1,1 @@
+CustomerID	LastName	Address	City	State	ZipCode	OrderID	Paid?	OrderDate	PickupDate	BakeryItemID	BakeryItemName	BakeryItemCategory	Quantity	Price	Total	DiscountUsedOnOrder	TotalDue	AvailableDiscount	CurrentLoyalty
